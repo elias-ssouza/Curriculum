@@ -1,4 +1,11 @@
 h2{
-    color: grey;
+    color: gray;
+}
+
+h3{
+    color:slategray;
+}
+.titulo-escolar{
+    text-decoration: solid;
     text-decoration: underline;
 }
