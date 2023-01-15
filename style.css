@@ -1,6 +1,9 @@
 html{
     background-color:#d3d3d3;
     background-image: url("meen_launcher.png");
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-variant: small-caps;
 }
 main{
     background-color:#fff;
@@ -8,16 +11,23 @@ main{
 h2{
     color: gray;
 }
-
 h3{
     color:slategray;
 }
 .titulo-escolar{
     text-decoration: solid;
     text-decoration: underline;
-}
+    font-weight:bold;
 
+}
 h4{
     color:grey;
     text-decoration: solid;
+}
+a{
+    color: greenyellow;
+    cursor: pointer;
+}
+a:visited{
+    color: cadetblue;
 }
